@@ -5,9 +5,9 @@
     <link>https://mpalomera.github.io/courses/index.xml</link>
     <description>Recent content in Courses on Growing Happy Developers</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Miguel Palomera</copyright>
     <lastBuildDate>Sat, 27 May 2017 16:18:13 -0500</lastBuildDate>
-    <atom:link href="https://mpalomera.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/courses/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>pavanzada</title>
