@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on Growing Happy Developers</title>
+    <link>https://mpalomera.github.io/tags/teaching/index.xml</link>
+    <description>Recent content in Teaching on Growing Happy Developers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>&amp;copy; 2017 Miguel Palomera</copyright>
+    <atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Advance Programming</title>
+      <link>https://mpalomera.github.io/teaching/advance-programming/</link>
+      <pubDate>Sat, 08 Jul 2017 17:31:16 -0500</pubDate>
+      
+      <guid>https://mpalomera.github.io/teaching/advance-programming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
