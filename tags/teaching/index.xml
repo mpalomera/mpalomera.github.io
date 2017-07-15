@@ -17,5 +17,58 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Operating Systems</title>
+      <link>https://mpalomera.github.io/teaching/operating-systems/</link>
+      <pubDate>Sat, 08 Jul 2017 17:31:16 -0500</pubDate>
+      
+      <guid>https://mpalomera.github.io/teaching/operating-systems/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;What is a computer?&lt;/li&gt;
+&lt;li&gt;How those &amp;ldquo;fierros&amp;rdquo; can turn into a video game console?&lt;/li&gt;
+&lt;li&gt;What is a system call?&lt;/li&gt;
+&lt;li&gt;But overall, What the &amp;hellip; is a proccess?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Above questions and much more is  reviewed in deteal at this course.&lt;/p&gt;
+
+&lt;p&gt;During the course, the super dupper fabolouse xv6, is used a lot to explain the more dificult topics.&lt;/p&gt;
+
+&lt;h2 id=&#34;practices&#34;&gt;Practices:&lt;/h2&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Topic&lt;/th&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;th&gt;Reading&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;System Calls&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Boot process&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Boot process&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
