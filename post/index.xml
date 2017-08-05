@@ -6,8 +6,46 @@
     <description>Recent content in Posts on Growing Happy Developers</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&amp;copy; 2017 Miguel Palomera</copyright>
-    <lastBuildDate>Sat, 15 Jul 2017 16:14:32 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2017 17:44:58 -0500</lastBuildDate>
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Working harder building the wrong thing</title>
+      <link>https://mpalomera.github.io/post/working-harder/</link>
+      <pubDate>Sat, 29 Jul 2017 17:44:58 -0500</pubDate>
+      
+      <guid>https://mpalomera.github.io/post/working-harder/</guid>
+      <description>&lt;p&gt;I did it again, I expended two days and one night building &amp;ldquo;Y&amp;rdquo;. The weird thing, one more time, nobody asked for &amp;ldquo;Y&amp;rdquo;. They expected something totally different, holy crap &amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t want this happens to me, to anybody, again. Here are the postmortem facts, (Trying to learn something this time):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;In a meeting somebody said that it will be great having a reporting tool that do this and that, and maybe Miguel could do something like that.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After the meeting, my manager told me, B&amp;hellip; will send you the metrics for the reports we wanted.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So far so good, I got the metrics really late that day. But I wanted to show something next day, so I expended  all the night building a report for the two more simple metrics.&lt;/p&gt;
+
+&lt;p&gt;There were no stand up meeting the next day, :( . Then, I missed the opportunity to show up my new super duper reporting tool to all the team. Been built  only in one night. Well, I have more time to continue adding more features and the rest of the metrics.&lt;/p&gt;
+
+&lt;p&gt;Can you start seeing how the things started to get wrong?. With zero feedback I continue adding more cool things that nobody asked for. The next stand up meeting was canceled. Great I have more time to add cool stuff.&lt;/p&gt;
+
+&lt;p&gt;After two days (and one night) working without any feedback,  I have the best reporting tool ever. Finally the great day comes, I presented the tool to my team.&lt;/p&gt;
+
+&lt;p&gt;Imagine the scene , just in middle of the presentation, the big boss said &amp;ldquo;What the &amp;hellip; is that&amp;rdquo; we need a csv with this and that, no nice graph, where is this and that data, Can you focus on get that?&lt;/p&gt;
+
+&lt;p&gt;I was really mad, the reporting tool was awesome, for me at least. But it was no useful.  Speaking of the big boss, he was also mad, from his point of view I was goofing  around two days.&lt;/p&gt;
+
+&lt;p&gt;Lessons learned:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Never, never rush  to do something just to show up what a great developer you are.&lt;/li&gt;
+&lt;li&gt;Get the complete picture before start doing anything.&lt;/li&gt;
+&lt;li&gt;Feedback, feedback. Get feedback as soon as possible, if that is not possible do something else.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Been a developer</title>
